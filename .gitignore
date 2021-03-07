@@ -1,0 +1,11 @@
+*bin
+*~
+CMakeCache*
+CMakeFiles*
+esp32*
+spi_dma.dis
+spi_dma.elf*
+spi_dma.hex
+spi_dma.uf2
+
+
